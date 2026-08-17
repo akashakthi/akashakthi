@@ -1,20 +1,17 @@
-<!--
-GitHub Profile README for: https://github.com/akashakthi
-Place this file in a public repository named exactly: akashakthi
--->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:111827,100:2563EB&text=Aka%20Shakthi&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Game%20Programmer%20%7C%20Unity%20%7C%20Roblox&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <div align="center">
 
-# AKA SHAKTHI
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Gameplay+Programmer;Unity+%2F+C%23+Developer;Roblox+%2F+Lua%2FLuau+Developer;Gameplay+Systems+%26+Multiplayer;Building+Clean%2C+Scalable+Game+Architecture" alt="Typing SVG" />
+</a>
 
-### Game Programmer · Unity C# · Roblox Lua/Luau
+<br/>
 
-I build modular gameplay systems, simulation mechanics, and multiplayer experiences with a focus on clean architecture, responsive game feel, and production-ready implementation.
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-akashakthi.my.id-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashakthi.my.id)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Aka_Shakthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashakthi)
-[![itch.io](https://img.shields.io/badge/ITCH.IO-PLAY_MY_GAMES-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://aka-shakthi.itch.io/)
-[![Email](https://img.shields.io/badge/EMAIL-akashakthi0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashakthi0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-akashakthi.my.id-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashakthi.my.id)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aka_Shakthi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akashakthi)
+[![itch.io](https://img.shields.io/badge/itch.io-Play_My_Games-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://aka-shakthi.itch.io/)
+[![Email](https://img.shields.io/badge/Email-akashakthi0%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashakthi0@gmail.com)
 
 </div>
 
@@ -22,134 +19,149 @@ I build modular gameplay systems, simulation mechanics, and multiplayer experien
 
 ## About Me
 
-I'm a **Game Programmer** specializing in **Unity (C#)** and **Roblox Studio (Lua/Luau)**.
+I'm a **Game Programmer** specializing in **Unity (C#)** and **Roblox Studio (Lua/Luau)**, with a strong focus on gameplay engineering, modular systems, multiplayer architecture, and production-ready implementation.
 
-My work is centered around gameplay engineering: turning game design ideas into maintainable systems that are easy to extend, test, balance, and integrate with the rest of a production pipeline.
+I enjoy turning game-design ideas into systems that are maintainable, scalable, easy to balance, and comfortable for designers and artists to work with.
 
-Currently, I work with Roblox production systems and multiplayer gameplay at **RIVRS Studio**.
-
-### What I work on
-
-- Gameplay systems and core gameplay loops
-- Roblox client-server architecture
-- Multiplayer replication and synchronization
-- Player progression and game-state systems
-- Economy, inventory, stats, rewards, and progression
-- Simulation and management-game mechanics
-- Cameras, controls, interaction systems, and game feel
-- Modular architecture using OOP, SOLID, and design patterns
-- Gameplay debugging, optimization, and live feature maintenance
-- Technical implementation of UI, VFX, animation, and 3D assets
+```text
+Current Focus
+├── Gameplay systems & core loops
+├── Roblox client-server architecture
+├── Multiplayer replication & synchronization
+├── Progression, inventory, economy & rewards
+├── Simulation / management game mechanics
+├── UI, VFX, animation & 3D gameplay integration
+└── Debugging, optimization & live feature maintenance
+```
 
 ---
 
 ## Tech Stack
 
+<div align="center">
+
 ### Languages & Engines
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,unity,lua" alt="C#, Unity, Lua" />
-  <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" height="48" />
-</p>
+<img src="https://skillicons.dev/icons?i=cs,unity,lua" alt="C#, Unity, Lua" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox Studio" height="48" />
 
-### Development & Production Tools
+### Development & Production
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=visualstudio,git,github,gitlab,blender,figma" alt="Visual Studio, Git, GitHub, GitLab, Blender, Figma" />
-</p>
+<img src="https://skillicons.dev/icons?i=visualstudio,git,github,gitlab,blender,figma" alt="Visual Studio, Git, GitHub, GitLab, Blender, Figma" />
 
-### Engineering Practices
+<br/><br/>
 
 ![OOP](https://img.shields.io/badge/OOP-Object--Oriented_Programming-1F6FEB?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-Principles-7C3AED?style=flat-square)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-Factory_%7C_Observer_%7C_State-0F766E?style=flat-square)
+![Patterns](https://img.shields.io/badge/Patterns-Factory_%7C_Observer_%7C_State-0F766E?style=flat-square)
 ![Client Server](https://img.shields.io/badge/Architecture-Client--Server-2563EB?style=flat-square)
 ![Replication](https://img.shields.io/badge/Multiplayer-Replication_%26_Sync-DC2626?style=flat-square)
 ![Agile](https://img.shields.io/badge/Workflow-Agile_%2F_Scrum-F59E0B?style=flat-square)
 
+</div>
+
 ---
 
-## Core Game Programming Skills
+## Game Programming
 
-```text
-Gameplay Programming
-├── Character / Player Systems
-├── Interaction Systems
-├── Progression & Economy
-├── Inventory & Stats
-├── Rewards & Power-ups
-├── Game State & Match Flow
-├── Simulation Mechanics
-├── UI Gameplay Integration
-└── Game Feel & Polish
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Roblox Engineering
-├── Lua / Luau
-├── Client-Server Communication
-├── Replication
-├── Multiplayer Game State
-├── Remote Events / Functions
-├── Modular Game Systems
-├── Live Gameplay Features
-└── Performance Optimization
+### Gameplay
 
-Unity Engineering
-├── C#
-├── ScriptableObject Architecture
-├── OOP & SOLID
-├── State Machines
-├── Observer Pattern
-├── Factory Pattern
-├── Simulation Systems
-└── 2D / 3D Gameplay
-```
+- Core gameplay loops
+- Player systems
+- Interaction systems
+- Game state & match flow
+- Camera & controls
+- Game feel & polish
+
+</td>
+<td width="33%" valign="top">
+
+### Roblox
+
+- Lua / Luau
+- Client-server communication
+- Replication & synchronization
+- Remote Events / Functions
+- Multiplayer state
+- Live gameplay systems
+
+</td>
+<td width="33%" valign="top">
+
+### Unity
+
+- C#
+- ScriptableObject architecture
+- OOP & SOLID
+- State machines
+- Observer / Factory patterns
+- 2D & 3D gameplay
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Featured Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### Butikku
 **Unity · C# · ScriptableObject · Simulation**
 
-A boutique management and cultural-learning game built around time-management gameplay, customer requests, clothing matching, progression, and modular content systems.
+Boutique management and cultural-learning game featuring customer requests, clothing matching, progression, and modular content systems.
 
-[Play Butikku →](https://aka-shakthi.itch.io/butikku)
+[Play on itch.io →](https://aka-shakthi.itch.io/butikku)
 
----
+</td>
+<td width="50%" valign="top">
 
 ### Warteg Langganan
 **Unity · C# · Gameplay Systems · Simulation**
 
-A fast-paced Indonesian food-stall simulation featuring randomized customer orders, ingredient validation, serving mechanics, progression, and cross-platform interaction.
+Fast-paced Indonesian food-stall simulation with randomized orders, ingredient validation, serving mechanics, and progression systems.
 
-[Play Warteg Langganan →](https://aka-shakthi.itch.io/warteglanggananintern)
+[Play on itch.io →](https://aka-shakthi.itch.io/warteglanggananintern)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### The Avenger's Seed
 **Unity · C# · 3D · Game Jam**
 
-A 3D adventure project created for **GAMESEED 2024**, where I contributed as both a programmer and team lead/project manager.
+3D adventure created for **GAMESEED 2024**, where I contributed as a programmer and team lead/project manager.
 
-[View The Avenger's Seed →](https://aka-shakthi.itch.io/the-avengers-seed)
+[View project →](https://aka-shakthi.itch.io/the-avengers-seed)
 
----
-
-### Mythwood Garden
-**Unity · Technical Art · VFX · Lighting**
-
-A cozy fantasy simulation created for **GameJam+ 24/25 Indonesia**. My contribution focused on technical-art implementation, particles, animation, lighting, and visual presentation.
-
-[View Mythwood Garden →](https://yaaanbo.itch.io/mythwood-garden)
-
----
+</td>
+<td width="50%" valign="top">
 
 ### Learn Roblox From Unity
-**Roblox Studio · Unity-to-Roblox Workflow · Personal Project**
+**Roblox Studio · Unity-to-Roblox Workflow**
 
-A personal project documenting my transition from Unity development into Roblox Studio, including concepts, workflows, and technical comparisons between both ecosystems.
+Personal project documenting concepts, workflows, and technical comparisons while transitioning from Unity development into Roblox Studio.
 
-[Explore the Project →](https://learn-roblox-from-unity.vercel.app/)
+[Explore project →](https://learn-roblox-from-unity.vercel.app/)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Full Portfolio](https://img.shields.io/badge/VIEW_FULL_PORTFOLIO-akashakthi.my.id-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://akashakthi.my.id)
+
+</div>
 
 ---
 
@@ -167,13 +179,46 @@ A personal project documenting my transition from Unity development into Roblox 
 **Game Programmer Intern**
 
 - Built gameplay systems for a management simulation game.
-- Developed financial/economy and progression mechanics.
+- Developed economy and progression mechanics.
 - Implemented cooking, ingredient validation, customer-order, and serving systems.
 - Worked with modular Unity/C# architecture.
 
 ---
 
-## Development Philosophy
+## GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=akashakthi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=github" alt="Aka Shakthi GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashakthi&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=akashakthi&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=F59E0B&currStreakLabel=58A6FF" alt="GitHub Streak" />
+
+<br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=akashakthi&bg_color=0D1117&color=58A6FF&line=2563EB&point=FFFFFF&area=true&hide_border=true" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akashakthi/akashakthi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akashakthi/akashakthi/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/akashakthi/akashakthi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+<details>
+<summary><b>Development Philosophy</b></summary>
+<br/>
 
 ```csharp
 public class GameProgrammer
@@ -185,13 +230,15 @@ public class GameProgrammer
         "Make systems modular",
         "Keep responsibilities clear",
         "Design for iteration",
-        "Optimize only where it matters",
+        "Optimize where it matters",
         "Build for designers and players, not only programmers"
     };
 }
 ```
 
-I prefer systems that remain understandable after a project grows: clear ownership, predictable state, modular components, and gameplay code that can be safely iterated without breaking unrelated features.
+I prefer systems with clear ownership, predictable state, modular components, and gameplay code that can evolve without breaking unrelated features.
+
+</details>
 
 ---
 
@@ -200,31 +247,17 @@ I prefer systems that remain understandable after a project grows: clear ownersh
 **Bachelor of Applied Science (D4) — Game Technology**  
 STMM Yogyakarta / MMTC · 2022–2026
 
-Additional background includes game-development training, Unity development, and 3D low-poly asset production.
-
----
-
-## Let's Connect
-
-I'm interested in opportunities involving:
-
-- Unity gameplay programming
-- Roblox game development
-- Gameplay systems
-- Multiplayer systems
-- Simulation games
-- Prototyping and feature implementation
-
-**Portfolio:** [akashakthi.my.id](https://akashakthi.my.id)  
-**GitHub:** [github.com/akashakthi](https://github.com/akashakthi)  
-**itch.io:** [aka-shakthi.itch.io](https://aka-shakthi.itch.io/)  
-**LinkedIn:** [linkedin.com/in/akashakthi](https://www.linkedin.com/in/akashakthi)  
-**Email:** [akashakthi0@gmail.com](mailto:akashakthi0@gmail.com)
-
 ---
 
 <div align="center">
 
-### Building gameplay systems that are clean in code and fun in motion.
+### Let's Build Something Playable
+
+Unity gameplay · Roblox development · Multiplayer systems · Simulation games · Prototyping
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://akashakthi.my.id)
+[![Email](https://img.shields.io/badge/Contact-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashakthi0@gmail.com)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0B1020,50:111827,100:2563EB" />
