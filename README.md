@@ -108,9 +108,55 @@ Current Focus
 
 ---
 
-## Featured Projects
+## Featured Game Projects
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+### Match Making Dress
+**Unity · C# · Gameplay · UI Systems**
+
+Unity game project centered around interactive outfit/dress-matching mechanics, player input, UI flow, audio, and gameplay implementation.
+
+[View source →](https://github.com/akashakthi/MatchMakingDress)
+
+</td>
+<td width="50%" valign="top">
+
+### The Avenger's Seed
+**Unity · C# · 3D Adventure · Game Jam**
+
+3D adventure created for **GAMESEED 2024**. I contributed as a programmer while also handling team-lead/project-management responsibilities.
+
+[Play / View project →](https://aka-shakthi.itch.io/the-avengers-seed)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### Swara Quest
+**Unity · C# · Audio Systems · Interactive Experience**
+
+Music-driven Unity project featuring song selection, audio management, visual feedback, camera effects, scene flow, and interactive UI systems.
+
+[View source →](https://github.com/akashakthi/Swara)
+
+</td>
+<td width="50%" valign="top">
+
+### Mythwood Garden
+**Unity · Technical Art · VFX · Lighting**
+
+Cozy fantasy simulation created for **GameJam+ 24/25 Indonesia**. I worked on technical-art implementation, particles, animation, lighting, and visual presentation in collaboration with **Yaanbo** and the team.
+
+[Play / View project →](https://yaaanbo.itch.io/mythwood-garden)
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -133,33 +179,12 @@ Fast-paced Indonesian food-stall simulation with randomized orders, ingredient v
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### The Avenger's Seed
-**Unity · C# · 3D · Game Jam**
-
-3D adventure created for **GAMESEED 2024**, where I contributed as a programmer and team lead/project manager.
-
-[View project →](https://aka-shakthi.itch.io/the-avengers-seed)
-
-</td>
-<td width="50%" valign="top">
-
-### Learn Roblox From Unity
-**Roblox Studio · Unity-to-Roblox Workflow**
-
-Personal project documenting concepts, workflows, and technical comparisons while transitioning from Unity development into Roblox Studio.
-
-[Explore project →](https://learn-roblox-from-unity.vercel.app/)
-
-</td>
-</tr>
 </table>
 
 <div align="center">
 
-[![Full Portfolio](https://img.shields.io/badge/VIEW_FULL_PORTFOLIO-akashakthi.my.id-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://akashakthi.my.id)
+[![Full Portfolio](https://img.shields.io/badge/VIEW_ALL_PROJECTS-akashakthi.my.id-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://akashakthi.my.id)
+[![Roblox Journey](https://img.shields.io/badge/ROBLOX-Learn_Roblox_From_Unity-000000?style=for-the-badge&logo=roblox&logoColor=white)](https://learn-roblox-from-unity.vercel.app/)
 
 </div>
 
